@@ -1,0 +1,2 @@
+# Analyzing_wine_type_and_quality
+ Processing, analyzing, and modeling on a dataset pertaining to wine samples with a focus on type and quality ratings. It covers a variety of predictive models, including linear models like logistic regression and complex models including deep neural networks. Besides this, it will also cover tree based models like decision trees and ensemble models like random forests and the very popular extreme gradient boosting model.
